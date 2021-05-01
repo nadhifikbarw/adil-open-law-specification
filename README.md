@@ -75,6 +75,6 @@ Inisiatif ini masih sangat awam dan perlu banyak pengembangan lebih lanjut. Kont
 
 ## Referensi Terkait
 
-[1] Indrati, Maria Farida, and Maria Farida. "Ilmu Perundang-Undangan, Proses dan Teknik Pembentukannya." Yogyakarta: Kanisius (2007).
+[1] Indrati, Maria Farida, and Maria Farida. "Ilmu Perundang-Undangan, Proses dan Teknik Pembentukannya." Yogyakarta: Kanisius (2017).
 
 
